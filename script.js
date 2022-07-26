@@ -1,5 +1,5 @@
 const Pokecontainer = document.querySelector('#poke_container');
-const Pokemonsnumber = 150;
+const Pokemonsnumber = 10;
 
 const createpokemoncard = (Pokemon) => {
   const PokemonEl = document.createElement('div');
